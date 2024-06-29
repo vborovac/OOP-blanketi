@@ -1,1 +1,2 @@
-Verovatno su svi tacni...ako vidite gresku prijavite !
+NE garantujem da su svi tacni,pokrenite zadatak pa proverite!!
+Ako vidite gresku prijavite !
